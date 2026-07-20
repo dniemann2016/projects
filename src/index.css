@@ -1,0 +1,25 @@
+:root {
+  color-scheme: light;
+  --aw-blue: #0071e3;
+  --aw-green: #1d9a46;
+  --aw-text: #1d1d1f;
+  --aw-text-dim: #6e6e73;
+  --aw-text-faint: #86868b;
+  --aw-card: #f5f5f7;
+  --aw-red: #d70015;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #1d1d1f;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100svh;
+}

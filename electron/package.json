@@ -1,0 +1,44 @@
+{
+  "name": "expertisemarkt-electron",
+  "private": true,
+  "version": "0.1.0",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.projects.desktop",
+    "productName": "Projects",
+    "files": [
+      "main.cjs",
+      "package.json"
+    ],
+    "extraResources": [
+      { "from": "../dist", "to": "dist" },
+      {
+        "from": "../server",
+        "to": "server",
+        "filter": ["**/*", "!data/db.json", "!data/.encryption.key", "!data/config.json", "!.env"]
+      }
+    ],
+    "directories": {
+      "output": "../release"
+    },
+    "mac": {
+      "category": "public.app-category.business",
+      "target": "dmg"
+    },
+    "win": {
+      "target": "nsis"
+    },
+    "linux": {
+      "target": "AppImage",
+      "category": "Office"
+    }
+  }
+}

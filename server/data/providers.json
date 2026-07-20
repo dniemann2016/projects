@@ -1,0 +1,22 @@
+[
+  { "id": "sparkasse", "name": "Sparkasse", "type": "bank", "color": "#E30613", "letter": "S" },
+  { "id": "volksbank", "name": "Volksbank", "type": "bank", "color": "#0066B3", "letter": "V" },
+  { "id": "deutsche-bank", "name": "Deutsche Bank", "type": "bank", "color": "#0018A8", "letter": "D" },
+  { "id": "commerzbank", "name": "Commerzbank", "type": "bank", "color": "#FFCC33", "letter": "C" },
+  { "id": "postbank", "name": "Postbank", "type": "bank", "color": "#FFCC00", "letter": "P" },
+  { "id": "ing", "name": "ING", "type": "bank", "color": "#FF6200", "letter": "I" },
+  { "id": "dkb", "name": "DKB", "type": "bank", "color": "#1482C9", "letter": "D" },
+  { "id": "comdirect", "name": "comdirect", "type": "bank", "color": "#FFF04B", "letter": "c" },
+  { "id": "n26", "name": "N26", "type": "bank", "color": "#36A18B", "letter": "N" },
+  { "id": "revolut", "name": "Revolut", "type": "bank", "color": "#191C1F", "letter": "R" },
+  { "id": "targobank", "name": "Targobank", "type": "bank", "color": "#005CA9", "letter": "T" },
+  { "id": "santander", "name": "Santander", "type": "bank", "color": "#EC0000", "letter": "S" },
+  { "id": "paypal", "name": "PayPal", "type": "wallet", "color": "#003087", "letter": "P" },
+  { "id": "klarna", "name": "Klarna", "type": "wallet", "color": "#FFB3C7", "letter": "K" },
+  { "id": "amex", "name": "American Express", "type": "card", "color": "#006FCF", "letter": "A" },
+  { "id": "visa", "name": "Visa", "type": "card", "color": "#1A1F71", "letter": "V" },
+  { "id": "mastercard", "name": "Mastercard", "type": "card", "color": "#EB001B", "letter": "M" },
+  { "id": "wise", "name": "Wise", "type": "wallet", "color": "#9FE870", "letter": "W" },
+  { "id": "trade-republic", "name": "Trade Republic", "type": "broker", "color": "#111111", "letter": "T" },
+  { "id": "scalable", "name": "Scalable Capital", "type": "broker", "color": "#1B4DFF", "letter": "S" }
+]

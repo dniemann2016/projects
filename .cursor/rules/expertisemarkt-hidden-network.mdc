@@ -1,0 +1,9 @@
+---
+description: ExpertiseMarkt — Netzwerk/Karte vorübergehend ausgeblendet
+globs: src/em/**
+alwaysApply: false
+---
+
+Netzwerk-Tab (organon) und Netzwerkkarte (netzwerk) sind in `src/em/features.js` mit `showNetworkUi: false` und `showNetworkMap: false` deaktiviert.
+
+Backend-Routen unter `/api/market/organon` und `networkMap.js` bleiben erhalten. Zum Reaktivieren beide Flags auf `true` setzen.
