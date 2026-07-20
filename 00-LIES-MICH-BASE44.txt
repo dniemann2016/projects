@@ -1,0 +1,13 @@
+NIMM DIESEN CODE 1:1.
+
+Nicht neu erfinden. Nicht vereinfachen. Nicht „ähnlich“ bauen.
+Übernimm Dateien, UI, Animationen (inkl. heroCanvas beweglicher Background),
+API-Routen und Verhalten exakt wie im angehängten Code / ZIP.
+
+App: Projects (Marketplace)
+- Frontend: src/ (besonders src/em/*)
+- Backend: server/
+- Demo: maria_dev / Demo2026!
+- Admin: davidhammon / Orion447!
+
+Wenn du Express nicht hosten kannst: gleiche Features 1:1 als Base44-Entities + Functions abbilden, Optik und Flows identisch behalten.
