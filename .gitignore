@@ -1,5 +1,4 @@
 node_modules/
-dist/
 release/
 .DS_Store
 *.dmg
@@ -8,3 +7,4 @@ server/.env
 server/data/.encryption.key
 server/data/db.json
 .env
+.cursor/

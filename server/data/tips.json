@@ -1,0 +1,78 @@
+[
+  {
+    "id": "kredite",
+    "icon": "🏦",
+    "title": "Kredite & Zinsen",
+    "intro": "Wo ist der Kreditzins am günstigsten — und wie drückst du ihn weiter?",
+    "tips": [
+      { "title": "Vergleichsportale gegeneinander ausspielen", "text": "Der gleiche Kredit kostet je nach Portal (Check24, Verivox, Smava) und Tagesaktion unterschiedlich viel. Alle drei anfragen — Konditionsanfragen sind SCHUFA-neutral, wenn sie als 'Konditionsanfrage' und nicht als 'Kreditanfrage' laufen.", "saving": "oft 1-3% eff. Zins" },
+      { "title": "Hausbank mit Online-Angebot konfrontieren", "text": "Banken haben Verhandlungsspielraum, den sie erst nutzen, wenn du ein konkretes Konkurrenzangebot vorlegst. Ausgedrucktes Online-Angebot mitnehmen und um ein Gegenangebot bitten.", "saving": "0,3-1% Zins" },
+      { "title": "Restschuldversicherung fast immer abwählen", "text": "Die beim Kredit angebotene Restschuldversicherung verteuert den effektiven Zins oft massiv (teils +5% und mehr) und hat viele Ausschlüsse. Separater Risikoschutz (z. B. Risikolebensversicherung) ist meist deutlich günstiger.", "saving": "teils 4-stellig" },
+      { "title": "Umschuldung bei gefallenen Zinsen", "text": "Alte Ratenkredite mit hohem Zins lassen sich meist jederzeit kostenlos ablösen (max. 1% Vorfälligkeitsentschädigung bei Verbraucherkrediten). Neuen günstigeren Kredit aufnehmen, alten tilgen.", "saving": "Zinsdifferenz × Restlaufzeit" },
+      { "title": "Dispo ist der teuerste Kredit", "text": "10-14% Dispozins sind normal. Wer den Dispo regelmäßig nutzt, sollte auf einen Rahmenkredit (ca. 6-8%) oder Ratenkredit umschulden — gleiche Flexibilität, halber Zins.", "saving": "~50% der Dispozinsen" }
+    ]
+  },
+  {
+    "id": "waehrungen",
+    "icon": "💱",
+    "title": "Währungen & Auslandsgeld",
+    "intro": "Euro-Dollar-Kurs, Auslandsüberweisungen, Reisegeld: wo Banken still mitverdienen.",
+    "tips": [
+      { "title": "Wechselkurs-Aufschlag erkennen", "text": "Banken tauschen selten zum echten Marktkurs (Interbankenkurs), sondern schlagen 2-4% auf. Anbieter wie Wise oder Revolut tauschen nahe am Mittelkurs mit transparenter Gebühr — bei größeren Beträgen ein echter Unterschied.", "saving": "2-4% pro Tausch" },
+      { "title": "Broker-Spread vergleichen lohnt — Arbitrage für Privatanleger nicht", "text": "Dollar bei Broker X kaufen und bei Y teurer verkaufen klingt verlockend, aber Spreads, Gebühren und Ausführungszeit fressen die Differenz bei Privatkonten fast immer auf. Was sich WIRKLICH lohnt: vor dem Kauf von US-Aktien die FX-Gebühr des eigenen Brokers prüfen (0% bis 0,5% Unterschied je Broker).", "saving": "bis 0,5% pro US-Order" },
+      { "title": "Im Ausland IMMER in Landeswährung zahlen", "text": "Fragt der Automat oder das Kartenterminal 'In Euro abrechnen?' — immer ablehnen. Die 'Dynamic Currency Conversion' nutzt einen miserablen Kurs des Automatenbetreibers statt des guten Visa/Mastercard-Kurses.", "saving": "3-8% pro Zahlung" },
+      { "title": "Fremdwährungskonto für wiederkehrende USD-Einnahmen", "text": "Wer regelmäßig Dollar erhält (Freelancer, US-Dividenden), tauscht nicht bei jedem Eingang, sondern sammelt auf einem USD-Unterkonto und tauscht bei gutem Kurs in einem Rutsch.", "saving": "Kurswahl statt Zwangstausch" }
+    ]
+  },
+  {
+    "id": "immobilien",
+    "icon": "🏠",
+    "title": "Immobilien clever kaufen",
+    "intro": "Beim Immobilienkauf stecken die größten Sparhebel in Nebenkosten und Verhandlung.",
+    "tips": [
+      { "title": "Bewegliches Inventar aus dem Kaufpreis rechnen", "text": "Einbauküche, Sauna, Markisen: Werden sie im Notarvertrag separat ausgewiesen, fällt auf diesen Anteil KEINE Grunderwerbsteuer an (bis ~15% des Kaufpreises gelten meist als unkritisch, Belege aufheben).", "saving": "3,5-6,5% auf den Inventarwert" },
+      { "title": "Maklerprovision ist verhandelbar", "text": "Seit 2020 zahlt der Käufer höchstens die Hälfte der Provision. Die Gesamthöhe (oft 5,95-7,14%) ist frei verhandelbar — besonders bei Objekten, die schon lange inseriert sind.", "saving": "0,5-1,5% des Kaufpreises" },
+      { "title": "Kaufnebenkosten nie mitfinanzieren", "text": "Banken verlangen für die Finanzierung der Nebenkosten (ca. 10-12%) deutliche Zinsaufschläge, weil sie über dem Beleihungswert liegen. Nebenkosten aus Eigenkapital zahlen drückt den Zins der GESAMTEN Finanzierung.", "saving": "0,2-0,8% Zins" },
+      { "title": "Zinsbindung antizyklisch wählen", "text": "Bei hohen Zinsen kurze Bindung (5-10 J.) mit Option auf günstigere Anschlussfinanzierung; bei niedrigen Zinsen so lang wie möglich (15-20 J.) festschreiben. Sondertilgungsrechte immer vereinbaren — kosten meist nichts.", "saving": "situationsabhängig" },
+      { "title": "Sanierungsförderung VOR Kauf prüfen", "text": "KfW- und BAFA-Zuschüsse (Heizung, Dämmung) gibt es teils nur, wenn der Antrag VOR Beginn der Maßnahme gestellt wird. Wer erst kauft und dann fragt, verschenkt fünfstellige Zuschüsse.", "saving": "bis 70.000 € Zuschuss" }
+    ]
+  },
+  {
+    "id": "steuern-erbe",
+    "icon": "⚖️",
+    "title": "Steuern, Schenken & Erben",
+    "intro": "Legale Gestaltung: Freibeträge nutzen, bevor der Staat mitverdient. Kein Steuerberater-Ersatz!",
+    "tips": [
+      { "title": "Schenkungs-Freibeträge alle 10 Jahre neu", "text": "Kinder können von JEDEM Elternteil alle 10 Jahre 400.000 € steuerfrei erhalten, Enkel 200.000 €, Ehepartner 500.000 €. Wer früh und gestaffelt überträgt, vererbt Millionenvermögen steuerfrei — der Freibetrag verfällt sonst ungenutzt.", "saving": "bis zu 30% Erbschaftsteuer" },
+      { "title": "Ehegattenschaukel bei vermieteten Immobilien", "text": "Ein Ehepartner verkauft dem anderen die vermietete Immobilie (steuerfrei zwischen Ehegatten bzw. nach 10 Jahren Haltefrist). Der Käufer schreibt dann erneut vom aktuellen (höheren) Kaufpreis ab — die Abschreibungsbasis wird 'aufgefrischt'. Nur mit Steuerberater umsetzen!", "saving": "neue AfA-Basis, oft 5-stellig/Jahr" },
+      { "title": "Familienheim erbt sich steuerfrei", "text": "Die selbstgenutzte Immobilie geht an Ehepartner (ohne Größenlimit) und Kinder (bis 200 m² Wohnfläche) steuerFREI über — Bedingung: 10 Jahre weiter selbst bewohnen. Ausziehen innerhalb der Frist löst rückwirkend Steuer aus.", "saving": "komplette ErbSt auf das Heim" },
+      { "title": "Nießbrauch drückt den Schenkungswert", "text": "Immobilie ans Kind verschenken, aber Nießbrauch (Mieteinnahmen/Wohnrecht) zurückbehalten: Der Kapitalwert des Nießbrauchs wird vom steuerlichen Wert der Schenkung ABGEZOGEN — je jünger der Schenker, desto größer der Effekt.", "saving": "oft 30-50% des Immobilienwerts" },
+      { "title": "Sparerpauschbetrag & Günstigerprüfung", "text": "1.000 € Kapitalerträge pro Person (2.000 € bei Paaren) sind jährlich steuerfrei — Freistellungsauftrag richtig auf Banken verteilen. Geringverdiener/Rentner: Günstigerprüfung in der Steuererklärung ankreuzen, dann gilt der persönliche Steuersatz statt 25% Abgeltungsteuer.", "saving": "bis ~500 €/Jahr" }
+    ]
+  },
+  {
+    "id": "alltag",
+    "icon": "🛒",
+    "title": "Alltags-Tricks",
+    "intro": "Kleine Hebel, die sich jeden Monat summieren.",
+    "tips": [
+      { "title": "Jahreszahlung statt Monatsabo", "text": "Versicherungen und viele Abos geben 5-10% Rabatt bei jährlicher Zahlweise. Umgekehrt gilt: Der 'Monats-Aufschlag' ist ein versteckter Kredit mit oft >10% effektivem Jahreszins.", "saving": "5-10% pro Vertrag" },
+      { "title": "Neukunden-Karussell bei Strom & Gas", "text": "Bonus-optimierte Anbieterwechsel (jedes Jahr) bringen oft 100-300 € Wechselbonus. Kalender-Erinnerung 11 Monate nach Wechsel setzen, sonst rutscht man in den teuren Folgetarif.", "saving": "100-300 €/Jahr" },
+      { "title": "Cashback & Deals stapeln", "text": "Reihenfolge: Gutschein-Code + Cashback-Portal (Shoop, TopCashback) + Kreditkarten-Cashback. Die drei Ebenen schließen sich meist nicht aus.", "saving": "3-15% pro Einkauf" },
+      { "title": "Rundfunkbeitrag & GEZ-Befreiung prüfen", "text": "BAföG-Empfänger, Bürgergeld-Bezieher und einige weitere Gruppen können sich vom Rundfunkbeitrag befreien lassen — rückwirkend bis 3 Jahre mit Bescheid-Kopie.", "saving": "220 €/Jahr" },
+      { "title": "Arbeitgeber-Benefits abfragen", "text": "Viele zahlen auf Nachfrage: Zuschuss zum Deutschlandticket, betriebliche Altersvorsorge mit AG-Zuschuss (seit 2022 Pflicht: mind. 15%), Jobrad, 50-€-Sachbezugskarte. Das ist Gehalt, das ungefragt liegen bleibt.", "saving": "oft >1.000 €/Jahr netto" }
+    ]
+  },
+  {
+    "id": "versicherungen",
+    "icon": "🛡️",
+    "title": "Versicherungen entrümpeln",
+    "intro": "Die Deutschen sind überversichert bei Kleinkram und unterversichert bei Existenzrisiken.",
+    "tips": [
+      { "title": "Diese 4 zuerst, alles andere ist optional", "text": "Privathaftpflicht, Berufsunfähigkeit, (Risikoleben bei Familie), Auslandskranken. Handy-, Brillen-, Reisegepäck- und die meisten Geräteversicherungen haben miserable Schaden-Kosten-Quoten — das Geld lieber selbst zurücklegen.", "saving": "oft 300-600 €/Jahr" },
+      { "title": "KFZ: jedes Jahr im November vergleichen", "text": "Kündigungsstichtag 30.11. Wechsel spart im Schnitt 200-400 €. Trick: Werkstattbindung und jährliche Zahlweise drücken die Prämie zusätzlich; Zweitwagen über SF-Klassen-Übertragung von Verwandten einstufen.", "saving": "200-400 €/Jahr" },
+      { "title": "Alte Lebensversicherung: nicht vorschnell kündigen", "text": "Verträge vor 2005 sind steuerfrei bei Auszahlung und haben oft 3-4% Garantiezins — das gibt es nie wieder. Bei Geldbedarf: Beitragsfreistellung oder Policendarlehen prüfen statt Kündigung mit Verlust.", "saving": "Garantiezins sichern" },
+      { "title": "Selbstbeteiligung rauf, Prämie runter", "text": "Bei Hausrat/KFZ-Kasko senkt eine Selbstbeteiligung von 150-300 € die Prämie oft um 20-30%. Kleinschäden meldet man ohnehin besser nicht (Hochstufung).", "saving": "20-30% Prämie" }
+    ]
+  }
+]
